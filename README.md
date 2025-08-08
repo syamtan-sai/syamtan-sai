@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Syamtan Sai  
 
-💻 **Aspiring Data Analyst & Web Developer**  
+💻 **Aspiring Data Analyst**  
 🎓 Bachelor of Computer Applications (BCA) Graduate  
 🎯 Passionate about turning data into insights and building clean, functional web projects.  
 🌱 Currently learning **Data Analytics** and improving my **JavaScript** & **Python** skills.  
