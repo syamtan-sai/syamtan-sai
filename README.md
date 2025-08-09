@@ -22,16 +22,16 @@ Git • GitHub • VS Code
 
 ## 📂 Featured Projects  
 
-### 🎥 [YouTube Clone](https://github.com/syamtan-sai/youtube-clone)  
+### 🎥 [YouTube Clone](https://syamtan-sai.github.io/youtube-clone-html-css/)  
 A static YouTube homepage built with HTML & CSS. Clicking thumbnails redirects to actual YouTube videos.
 
-### 🌤 [Weather Forecast App](https://github.com/syamtan-sai/weather-forecast-app)  
+### 🌤 [Weather Forecast App](https://syamtan-sai.github.io/weather-app-html-css-js/)  
 Search for any city to view real-time weather details. Built using HTML, CSS, and JavaScript.
 
-### 📝 [Simple To-Do List](https://github.com/syamtan-sai/simple-todo-list)  
+### 📝 [Simple To-Do List](https://syamtan-sai.github.io/todo-list-html/)  
 Minimal HTML-based task manager allowing users to add and delete tasks.
 
-### 💼 [Portfolio Website](https://github.com/syamtan-sai/portfolio-website)  
+### 💼 [Portfolio Website](https://syamtan-sai.github.io/portfolio-website-html/)  
 Personal HTML portfolio showcasing my skills, education, and projects.
 
 ---
